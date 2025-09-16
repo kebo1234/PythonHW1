@@ -10,6 +10,7 @@ class MarketDataPoint:
     symbol: str
     price: float
     
+    
 def ReadMarketCSV(filename):
     MarketData = list()
     with open(filename, 'r', newline = '') as f:
