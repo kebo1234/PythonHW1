@@ -1,9 +1,9 @@
 # HW1: CSV-Based Algorithmic Trading Backtester
 
 ## Authors
-Shen-Ching Feng
-Cole Ginter
-Nicholas Kebo
+Shen-Ching Feng, 
+Cole Ginter, 
+Nicholas Kebo, 
 Sunil Trivedi
 
 ## Repo Structure
